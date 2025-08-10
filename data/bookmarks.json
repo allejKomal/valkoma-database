@@ -1,0 +1,115 @@
+[
+    {
+        "URL": "https://gradienty.codes/",
+        "Tags": [
+            "Tailwind CSS",
+            "Gradient Generator",
+            "Background Gradients",
+            "Text Gradients",
+            "Box‑Shadow Gradients",
+            "Glassmorphism",
+            "Animated Icons",
+            "Color Palettes",
+            "Blob Generator",
+            "Mesh Generator"
+        ],
+        "Description": "Gradienty.codes is a powerful, Tailwind‑compatible design toolkit offering over 20,000 curated gradients along with tools for creating vibrant backgrounds, text & box‑shadow gradients, glassmorphic effects, animated icons, palette visualizer, blob/mesh generators, and more—streamlined for easy live preview and Tailwind CSS code export.",
+        "Category": "Design Utilities"
+    },
+    {
+        "URL": "https://colorize.design/",
+        "Tags": [
+            "Color Palette Extraction",
+            "Website to Palette",
+            "Design Tool",
+            "Color Inspiration",
+            "API Access",
+            "CSS HTML JS Analysis",
+            "Favicon & Screenshot Analysis",
+            "Export Formats"
+        ],
+        "Description": "Colorize.design is a free tool that extracts color palettes from any website—by analyzing the page screenshot, favicon, and underlying HTML, CSS, and JavaScript files. Users can edit, share, and download palettes in multiple formats, and developers can integrate via API.",
+        "Category": "Design Utilities"
+    },
+    {
+        "URL": "https://tools.ui-layouts.com/",
+        "Tags": [
+            "Open Source",
+            "UI Tools",
+            "Shadow Generator",
+            "SVG Generator",
+            "Clip‑Path Generator",
+            "Mesh Gradient Generator",
+            "Background Pattern Snippets",
+            "Color Lab",
+            "Design Tools"
+        ],
+        "Description": "tools.ui‑layouts.com is an open‑source creative toolbox built for designers and developers. It offers generators for shadows, SVG shapes, clip‑path effects, mesh gradients, background patterns, and a color lab—fast, lightweight, and ready for building modern UI assets. The source code is publicly available on GitHub.",
+        "Category": "Design Utilities"
+    },
+    {
+        "URL": "https://shadcnstudio.com/",
+        "Tags": [
+            "Open Source",
+            "shadcn UI",
+            "Component Templates",
+            "Theme Generator",
+            "Blocks & Components",
+            "Live Customization",
+            "Tailwind v4",
+            "Animated Variants",
+            "Copy‑Paste Code"
+        ],
+        "Description": "shadcnstudio.com (also known as Shadcn Studio) is an open‑source registry of copy‑and‑paste shadcn components, blocks, and templates—paired with a powerful live theme generator. It empowers developers to customize UI components in real time (including colors, typography, Light/Dark modes, animated variants), then copy the code directly into their project for fast, flexible integration. Built for efficiency and adaptability with Tailwind v4 compatibility.",
+        "Category": "UI Component Libraries"
+    },
+    {
+        "URL": "https://allshadcn.com/",
+        "Tags": [
+            "Shadcn UI",
+            "Components",
+            "Blocks",
+            "Templates",
+            "Tools",
+            "Resources Collection",
+            "React",
+            "Tailwind CSS",
+            "Open Source",
+            "Free & Premium"
+        ],
+        "Description": "All Shadcn is a comprehensive, curated platform offering a vast library of Shadcn UI components, blocks, templates, and tools—both free and premium—for React and Tailwind CSS developers. It streamlines UI development with ready-made, accessible, and customizable assets, organized across categories like theme generators, modals, dashboards, and more.",
+        "Category": "Template Collections"
+    },
+    {
+        "URL": "https://animate-ui.com/",
+        "Tags": [
+            "Open Source",
+            "React Components",
+            "Tailwind CSS",
+            "Motion",
+            "Shadcn CLI",
+            "Animated Components",
+            "Component Distribution",
+            "TypeScript",
+            "Beta"
+        ],
+        "Description": "Animate UI is an open-source, beta-phase distribution of motion-animated React components built with Tailwind CSS, TypeScript, Motion, and the Shadcn CLI. It allows developers to install or copy‑paste beautifully animated primitives, text effects, dynamic backgrounds, and more—designed to seamlessly complement Shadcn UI components. Fully MIT licensed and easy to integrate into modern UIs.",
+        "Category": "UI Component Libraries"
+    },
+    {
+        "URL": "https://github.com/Aslam97/shadcn-minimal-tiptap",
+        "Tags": [
+            "React",
+            "Shadcn UI",
+            "Tiptap",
+            "Rich Text Editor",
+            "Tailwind CSS",
+            "Open Source",
+            "MIT License",
+            "Image Upload",
+            "Toolbar Customization"
+        ],
+        "Description": "shadcn-minimal-tiptap is a lightweight, customizable rich text editor component built for Shadcn UI, leveraging Tiptap and Tailwind CSS. It offers features like image uploads, toolbar customization, and multiple output formats (HTML, JSON, Text). With support for extensions like CodeBlockLowlight, Color, Heading, Image, Link, Placeholder, TextStyle, and Typography, it's designed for seamless integration into React applications. The project is open-source under the MIT license.",
+        "Category": "UI Component Libraries"
+    }
+]
