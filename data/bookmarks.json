@@ -1,6 +1,6 @@
 [
     {
-        "Title": "Gradienty: Tailwind-Compatible Design Toolkit",
+        "title": "Gradienty: Tailwind-Compatible Design Toolkit",
         "URL": "https://gradienty.codes/",
         "Tags": [
             "Tailwind CSS",
@@ -18,7 +18,7 @@
         "Category": "Design Utilities"
     },
     {
-        "Title": "Colorize: Website Color Palette Extractor",
+        "title": "Colorize: Website Color Palette Extractor",
         "URL": "https://colorize.design/",
         "Tags": [
             "Color Palette Extraction",
@@ -34,7 +34,7 @@
         "Category": "Design Utilities"
     },
     {
-        "Title": "UI Layouts: Open-Source Design Generators",
+        "title": "UI Layouts: Open-Source Design Generators",
         "URL": "https://tools.ui-layouts.com/",
         "Tags": [
             "Open Source",
@@ -51,7 +51,7 @@
         "Category": "Design Utilities"
     },
     {
-        "Title": "Shadcn Studio: Customizable UI Component Generator",
+        "title": "Shadcn Studio: Customizable UI Component Generator",
         "URL": "https://shadcnstudio.com/",
         "Tags": [
             "Open Source",
@@ -68,7 +68,7 @@
         "Category": "UI Component Libraries"
     },
     {
-        "Title": "All Shadcn: Comprehensive UI Resource Hub",
+        "title": "All Shadcn: Comprehensive UI Resource Hub",
         "URL": "https://allshadcn.com/",
         "Tags": [
             "Shadcn UI",
@@ -86,7 +86,7 @@
         "Category": "Template Collections"
     },
     {
-        "Title": "Animate UI: Motion-Animated React Components",
+        "title": "Animate UI: Motion-Animated React Components",
         "URL": "https://animate-ui.com/",
         "Tags": [
             "Open Source",
@@ -103,7 +103,7 @@
         "Category": "UI Component Libraries"
     },
     {
-        "Title": "Shadcn Minimal Tiptap: Rich Text Editor for React",
+        "title": "Shadcn Minimal Tiptap: Rich Text Editor for React",
         "URL": "https://github.com/Aslam97/shadcn-minimal-tiptap",
         "Tags": [
             "React",
